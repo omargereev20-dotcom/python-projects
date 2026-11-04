@@ -1,3 +1,4 @@
+# My first Python project
 def load_history():
     try:
         with open("history.txt", "r", encoding="utf-8") as file:
